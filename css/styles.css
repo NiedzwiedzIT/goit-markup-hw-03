@@ -238,21 +238,15 @@
 
     .section-features {
         padding-top: 94px;
-         
-
-         
+       
     }
     .section-item-features {
         display: flex;
         gap: 30px; 
-         
-          
-        
-        
+   
     }
    
-    .title-features {   
-         
+    .title-features {          
         margin-bottom: 10px;    
           
         color: var(--primary-teks-color);        
@@ -262,10 +256,8 @@
         text-transform: uppercase;
     }
 
-    .features-description {
-         
-             
-           max-width: 270px; 
+    .features-description {             
+        max-width: 270px; 
          
         color: var(--secondary-teks-color);        
         font-size: 14px;
@@ -278,6 +270,7 @@
     .section {
         padding-top: 94px;
         padding-bottom: 94px;
+
         text-align: center;     
     }
 
@@ -296,11 +289,9 @@
     }
 
     .section-works {
-        display: flex;
-         
-        
-
+        display: flex;      
     }
+
     .img-works {
         display: block;       
         margin-right: 30px;
@@ -318,11 +309,10 @@
     }
 
     .section-item {
-       display: flex;       
-       margin-bottom: auto;
-       margin-top: auto; 
-      
-                                      
+        display: flex;       
+        margin-bottom: auto;
+        margin-top: auto; 
+                                    
     }
      .avatar {
         padding-top: 30px;
@@ -349,9 +339,7 @@
         line-height: 1.18;        
         text-align: center;
     }
-
-
-    
+ 
    /* Button nav portfolio */
    .section-title-portfolio {
        padding-top: 94px;
@@ -371,7 +359,7 @@
 
    
    .section-radio-btn {       
-        display: flex;
+       display: flex;
        margin-bottom: 34px;
        
        justify-content: center;
@@ -388,7 +376,6 @@
         
        border-radius: 4px;
        border-color:transparent;
-
        background-color: var(--button-color-nav);
        color: var(--primary-teks-color);
        font-family: inherit;
@@ -409,24 +396,22 @@
  
    .project-item {  
        display: block;
-   
-       
-       
+    
    }
    .works {
-    display: block;
-    max-width: 100%;
+       display: block;
+       max-width: 100%;
    }
  
    .project-user {
-    padding-top: 20px; 
-    padding-right: 24px;
-    padding-bottom: 20px;
-    padding-left: 24px;
-    background-color:var(--primary-color);
-    border-bottom: 1px solid var(--border-project-item);   
-    border-right: 1px solid var(--border-project-item);   
-    border-left: 1px solid var(--border-project-item);   
+       padding-top: 20px; 
+       padding-right: 24px;
+       padding-bottom: 20px;
+       padding-left: 24px;
+       background-color:var(--primary-color);
+       border-bottom: 1px solid var(--border-project-item);   
+       border-right: 1px solid var(--border-project-item);   
+       border-left: 1px solid var(--border-project-item);   
    }
  
  
@@ -442,8 +427,6 @@
    }
 
    .project-description {
-        
-
        color: var(--secondary-teks-color);
        font-size: 16px;
        line-height: 1.88;
@@ -459,7 +442,6 @@
     }
     .footer-title {
         color: var(--akcent-color);
-
         font-family: "Raleway",sans-serif;   
         font-weight: 700;
         font-size: 26px;
